@@ -1,7 +1,7 @@
 /*
  * Automatically generated C config: don't edit
  * Linux kernel version: 2.6.32.9
- * Thu Jul  5 22:50:54 2012
+ * Thu Jul  5 23:26:11 2012
  */
 #define AUTOCONF_INCLUDED
 #define CONFIG_MMC_SDHCI_S3C_DMA 1
@@ -404,10 +404,10 @@
 #define CONFIG_HZ 200
 #define CONFIG_NETFILTER_XT_MATCH_HELPER 1
 #define CONFIG_CPU_HAS_ASID 1
+#define CONFIG_TRACING_SUPPORT 1
 #define CONFIG_USB_GADGET_S3C_OTGD_HS 1
 #define CONFIG_DM_MULTIPATH_QL 1
 #define CONFIG_INET_DIAG 1
-#define CONFIG_TRACING_SUPPORT 1
 #define CONFIG_NLS_ISO8859_1 1
 #define CONFIG_NETFILTER_XT_MATCH_LENGTH 1
 #define CONFIG_XFRM_MIGRATE 1
