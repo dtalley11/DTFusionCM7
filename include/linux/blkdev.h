@@ -1293,4 +1293,3 @@ static inline long nr_blockdev_pages(void)
 #endif /* CONFIG_BLOCK */
 
 #endif
-

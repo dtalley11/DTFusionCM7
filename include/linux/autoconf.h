@@ -1,7 +1,7 @@
 /*
  * Automatically generated C config: don't edit
  * Linux kernel version: 2.6.32.9
- * Thu May 31 10:06:13 2012
+ * Thu Jul  5 22:50:54 2012
  */
 #define AUTOCONF_INCLUDED
 #define CONFIG_MMC_SDHCI_S3C_DMA 1
@@ -23,7 +23,6 @@
 #define CONFIG_GPIOLIB 1
 #define CONFIG_CRYPTO_MD5 1
 #define CONFIG_FLATMEM 1
-#define CONFIG_IOSCHED_VR 1
 #define CONFIG_BLK_DEV_DM 1
 #define CONFIG_CRYPTO_WORKQUEUE 1
 #define CONFIG_PPP_MULTILINK 1
@@ -149,7 +148,6 @@
 #define CONFIG_SLUB 1
 #define CONFIG_PROC_PAGE_MONITOR 1
 #define CONFIG_ANDROID_PARANOID_NETWORK 1
-#define CONFIG_IOSCHED_BFQ 1
 #define CONFIG_TOUCHSCREEN_MELFAS_FIRMWARE_UPDATE 1
 #define CONFIG_SEC_HEADSET 1
 #define CONFIG_IOSCHED_CFQ 1
